@@ -5,7 +5,7 @@
 | **Practical-01** | **Programs on Remote Process Communication** ||
 | 01-A | Write a program to find IP address and host information. | ✅ |
 | 01-B | Write a Socket Program to connect Client and Server through TCP. | ✅ |
-| 01-C | Write a Socket Program to connect Client and Server through UDP. |  |
+| 01-C | Write a Socket Program to connect Client and Server through UDP. | ✅ |
 | 01-D | Develop a program for client server chat using java socket. |  |
 | 01-E | Develop a program for client server GUI chat. |  |
 | 01-F | Implement a server which calculates sum of two numbers using Java Socket |  |
