@@ -44,10 +44,11 @@ public class RMIGreatestClient extends JFrame implements ActionListener{
             int b = Integer.parseInt(tf2.getText());
             int c = obj.greatest(a, b);
 
+            // lb3.setText("Greatest is ");
             lb3.setText(c + " is the greatest number");
         }
         catch(Exception e){
-            lb3.setText("ERROR");
+            // lb3.setText("ERROR");
         }
     }
 

@@ -10,8 +10,9 @@ Step 4: Develop Client Program
 **How to run RMI Application**
 Step 01: Compile all the files
 Step 02: rmic HelloRmiImpl
-Step 03: java HelloRmiServer
-Step 04: java HelloRmiClient
+Step 03: start rmiregistry
+Step 04: java HelloRmiServer
+Step 05: java HelloRmiClient
 
 
 Naming class

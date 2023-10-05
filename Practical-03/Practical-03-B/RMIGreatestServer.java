@@ -7,7 +7,7 @@ import java.rmi.registry.*;
 public class RMIGreatestServer{
     public static void main(String[] args){
         try{
-            Registry reg = LocateRegistry.createRegistry(3300);        // create a port in rmiregistry
+            Registry reg = LocateRegistry.createRegistry(3333);      // create a port in rmiregistry
             RMIGreatestImpl obj = new RMIGreatestImpl();
             Naming.rebind("greatest", obj);
         }
