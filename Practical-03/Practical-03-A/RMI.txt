@@ -12,3 +12,14 @@ Step 01: Compile all the files
 Step 02: rmic HelloRmiImpl
 Step 03: java HelloRmiServer
 Step 04: java HelloRmiClient
+
+
+Naming class
+- bind()
+- rebind()
+- lookup()
+
+LocateRegistry class
+- 
+
+UnicastRemoteObject provides uniqueness to remote object
