@@ -47,7 +47,7 @@ public class RMISquareClient extends JFrame implements ActionListener{
     }
 
     public static void main(String[] args){
-        RMIGreatestClient gc = new RMIGreatestClient();
+        RMISquareClient gc = new RMISquareClient();
         gc.setLayout(new GridLayout(6, 1));
         gc.setVisible(true);
         gc.setSize(400, 400);
