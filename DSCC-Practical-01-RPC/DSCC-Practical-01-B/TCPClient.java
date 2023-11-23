@@ -14,7 +14,7 @@ public class TCPClient
 		PrintWriter output = new PrintWriter(sock.getOutputStream(), true);
 		
 		//Step 3: Perform communication
-		output.println("Hello");
+		output.println("This is Atul Vishwakarma");
 
 		//Step 4: Close connection
 		sock.close();

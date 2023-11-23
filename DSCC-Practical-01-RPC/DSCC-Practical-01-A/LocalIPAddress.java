@@ -21,10 +21,10 @@ public class LocalIPAddress
             System.out.println(address);
 
             String name = address.getHostName();
-            System.out.println(name);
+            System.out.println("Hostname: " + name);
 
             String host = address.getHostAddress();
-            System.out.println(host);
+            System.out.println("Host Address: " + host);
 
             InetAddress add = InetAddress.getByName(hostName);
             System.out.println(add.toString());
