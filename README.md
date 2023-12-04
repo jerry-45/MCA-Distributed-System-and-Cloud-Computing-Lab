@@ -21,9 +21,9 @@
 | Practical-03-A | Retrieve time and date function from server to client. This program should display server date and time by implementing RMI. | ✅ |
 | Practical-03-B | The client should provide the values of a & b. The server will solve the equation c = (a+b)^2 & c = (a+b)^3 and will give back the value of c. Implement using RMI. | ✅ |
 | Practical-03-C | The client should provide the value of a, b & c. The server will solve the equation (ax2+bx+c=0) and will give back the value of x. If a=1, b=5 and c=6 then return value will be x=-2 or x=-3. | ✅ |
-| Practical-03-D | Design a Graphical User Interface to find student’s score. Implement using RMI. |  |
-| Practical-03-E | Design a Graphical User Interface to find greatest of two numbers. Implement using RMI. |  |
-| Practical-03-F | Design a Graphical User Interface (GUI) based Basic Calculator by implementing RMI. |  |
+| Practical-03-D | Design a Graphical User Interface to find student’s score. Implement using RMI. | ✅ |
+| Practical-03-E | Design a Graphical User Interface to find greatest of two numbers. Implement using RMI. | ✅ |
+| Practical-03-F | Design a Graphical User Interface (GUI) based Basic Calculator by implementing RMI. | ✅ |
 |  |  |  |
 | **Practical-04** |  |  |
 |  |  |  |
