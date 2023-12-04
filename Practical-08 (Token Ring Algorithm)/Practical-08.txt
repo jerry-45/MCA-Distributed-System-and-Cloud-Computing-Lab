@@ -1,1 +1,0 @@
-Implementation of mutual exclusion using Token Ring Algorithm.
